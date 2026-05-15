@@ -31,7 +31,7 @@ Since this project relies solely on native web technologies, no build steps or p
 3. Simply double-click `index.html` to open it in your default web browser.
 4. **Recommended:** For a better development workflow, open the project in VS Code and run it using the **Live Server** extension.
 
-## 🌐 Deployed Link : 
+## 🌐 Deployed Link : https://glassmorphism-dashboard-git-main-shrutir09s-projects.vercel.app/
 
 
 ## 🎨 Customization
